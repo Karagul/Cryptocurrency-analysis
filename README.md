@@ -1,4 +1,4 @@
-# crypto_analysis_1
+# Cryptocurrency analysis
 Using quantitative methods to hedge against risk in the cryptocurrency market
 
 Data scraping:

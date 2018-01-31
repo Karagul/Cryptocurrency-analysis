@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 22 15:39:09 2018
 
-@author: Suman
+@author: Varun
 """
 
 import bs4 as bs
